@@ -1,0 +1,16 @@
+C:\Users\mark4\source\repos\CarEngine\CarEngine\bin\Debug\net5.0\CarEngine.exe
+C:\Users\mark4\source\repos\CarEngine\CarEngine\bin\Debug\net5.0\CarEngine.deps.json
+C:\Users\mark4\source\repos\CarEngine\CarEngine\bin\Debug\net5.0\CarEngine.runtimeconfig.json
+C:\Users\mark4\source\repos\CarEngine\CarEngine\bin\Debug\net5.0\CarEngine.runtimeconfig.dev.json
+C:\Users\mark4\source\repos\CarEngine\CarEngine\bin\Debug\net5.0\CarEngine.dll
+C:\Users\mark4\source\repos\CarEngine\CarEngine\bin\Debug\net5.0\ref\CarEngine.dll
+C:\Users\mark4\source\repos\CarEngine\CarEngine\bin\Debug\net5.0\CarEngine.pdb
+C:\Users\mark4\source\repos\CarEngine\CarEngine\obj\Debug\net5.0\CarEngine.csproj.AssemblyReference.cache
+C:\Users\mark4\source\repos\CarEngine\CarEngine\obj\Debug\net5.0\CarEngine.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mark4\source\repos\CarEngine\CarEngine\obj\Debug\net5.0\CarEngine.AssemblyInfoInputs.cache
+C:\Users\mark4\source\repos\CarEngine\CarEngine\obj\Debug\net5.0\CarEngine.AssemblyInfo.cs
+C:\Users\mark4\source\repos\CarEngine\CarEngine\obj\Debug\net5.0\CarEngine.csproj.CoreCompileInputs.cache
+C:\Users\mark4\source\repos\CarEngine\CarEngine\obj\Debug\net5.0\CarEngine.dll
+C:\Users\mark4\source\repos\CarEngine\CarEngine\obj\Debug\net5.0\ref\CarEngine.dll
+C:\Users\mark4\source\repos\CarEngine\CarEngine\obj\Debug\net5.0\CarEngine.pdb
+C:\Users\mark4\source\repos\CarEngine\CarEngine\obj\Debug\net5.0\CarEngine.genruntimeconfig.cache
